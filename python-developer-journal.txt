@@ -1,0 +1,41 @@
+input()
+print()
+f"{}" "{}".format()
+string ' " """
+variable assignment =
+def
+# comment
+comparison operators
+  ==
+  !=
+  <=
+  >=
+math operators
+  +-*/%
+string operators
+  +*
+int/ floating point
+REPL
+*
+import module, or from module import thing/*
+int()
+float()
+len()
+os.exist()
+sys.argv
+open()
+read()
+readline()
+seek()
+truncate()
+write()
+pydoc
+help()
+close()
+booleans True/False
+unpacking/muliple
+assignment/ multiple
+return
+and 
+or 
+not

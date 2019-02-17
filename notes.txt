@@ -1,0 +1,23 @@
+range(from_value, to_value)
+from_value is inclusive and to_value is exclusive
+
+dict methods {
+  .items() - creates a special list of tuples (usually use list() with this so that we can use the list)
+  .get(key, defaults) - gets the value at a key but wont throw an error for non existant value
+  .clear() - erases the whole dict
+  .copy() - shallow copies a dict
+  .keys() - gets all keys in dict
+  .values() - get all values from the dict
+}
+top-down programming - 
+when making a class{
+  topics are classes
+    nouns are attributes
+      verbs are methods
+}
+
+
+1.) Dictionaries - key/value pair, mapping
+2.) Modules - seperate file with functions or values 
+3.) Classes - blueprint for making objects
+4.) Inheritance - 
